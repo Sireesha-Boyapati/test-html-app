@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: Sireesha-Boyapati/test-html-app:latest
+          tags: sireeshaboyapati28/test-html-app:latest
